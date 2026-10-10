@@ -46,7 +46,7 @@ while (isRunning)
             // Kollar att inget fält e tomt
             if (string.IsNullOrWhiteSpace(name) || string.IsNullOrWhiteSpace(entry))
             {
-                Console.WriteLine("Name and entry can not be empty");
+                Console.WriteLine("Name or entry can not be empty");
             }
             else
             {
