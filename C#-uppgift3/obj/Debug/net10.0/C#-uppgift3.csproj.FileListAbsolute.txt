@@ -1,0 +1,14 @@
+C:\Users\saray\OneDrive\Desktop\C#-uppgift3\bin\Debug\net10.0\C#-uppgift3.exe
+C:\Users\saray\OneDrive\Desktop\C#-uppgift3\bin\Debug\net10.0\C#-uppgift3.deps.json
+C:\Users\saray\OneDrive\Desktop\C#-uppgift3\bin\Debug\net10.0\C#-uppgift3.runtimeconfig.json
+C:\Users\saray\OneDrive\Desktop\C#-uppgift3\bin\Debug\net10.0\C#-uppgift3.dll
+C:\Users\saray\OneDrive\Desktop\C#-uppgift3\bin\Debug\net10.0\C#-uppgift3.pdb
+C:\Users\saray\OneDrive\Desktop\C#-uppgift3\obj\Debug\net10.0\C#-uppgift3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saray\OneDrive\Desktop\C#-uppgift3\obj\Debug\net10.0\C#-uppgift3.AssemblyInfoInputs.cache
+C:\Users\saray\OneDrive\Desktop\C#-uppgift3\obj\Debug\net10.0\C#-uppgift3.AssemblyInfo.cs
+C:\Users\saray\OneDrive\Desktop\C#-uppgift3\obj\Debug\net10.0\C#-uppgift3.csproj.CoreCompileInputs.cache
+C:\Users\saray\OneDrive\Desktop\C#-uppgift3\obj\Debug\net10.0\C#-uppgift3.dll
+C:\Users\saray\OneDrive\Desktop\C#-uppgift3\obj\Debug\net10.0\refint\C#-uppgift3.dll
+C:\Users\saray\OneDrive\Desktop\C#-uppgift3\obj\Debug\net10.0\C#-uppgift3.pdb
+C:\Users\saray\OneDrive\Desktop\C#-uppgift3\obj\Debug\net10.0\C#-uppgift3.genruntimeconfig.cache
+C:\Users\saray\OneDrive\Desktop\C#-uppgift3\obj\Debug\net10.0\ref\C#-uppgift3.dll

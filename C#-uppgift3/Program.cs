@@ -11,11 +11,14 @@ if (File.Exists("guestbook.json"))
     // Läser innehållet av filen
     string savedJson = File.ReadAllText("guestbook.json");
 
-    // Omvandlar json innehållet till en lista med inlägg
-    guestList = JsonSerializer.Deserialize<List<GuestbookEntry>>(savedJson) ?? new List<GuestbookEntry>();
+    // Kollar om json filen innehåller nån data innan den läses in
+    if (!string.IsNullOrWhiteSpace(savedJson))
+    {
+        guestList = JsonSerializer.Deserialize<List<GuestbookEntry>>(savedJson) ?? new List<GuestbookEntry>();
+    }
 }
 
-// Håller programmet igång tills använder avslutar
+// Håller programmet igång tills användaren avslutar
 bool isRunning = true;
 
 while (isRunning)
